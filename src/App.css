@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+}
+
+.markArea {
+  
+  
+  box-shadow: 2px 4px 8px rgba(0,0,0,0.8);
+}
+
+#container{
+  
+  padding: 5px;
+  background-color: lightgreen;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 1px 1px 10px 2px green;
+  border: 1px solid green;
+  
+  margin: auto;
+}
+.border{
+  
+  box-shadow: 1px 1px 10px 2px green;
+  border: 1px solid green;
+  width: 570px;
+  margin: auto;
+}
+
+
+.border-preview{
+  box-shadow: 1px 1px 10px 2px green;
+  border: 1px solid green;
+  width: 900px;
+  margin: auto;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #2542a5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
