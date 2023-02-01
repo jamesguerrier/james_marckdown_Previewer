@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/james_marckdown_previewer/static/css/main.3632bf37.css",
+    "main.js": "/james_marckdown_previewer/static/js/main.6543425a.js",
+    "index.html": "/james_marckdown_previewer/index.html",
+    "main.3632bf37.css.map": "/james_marckdown_previewer/static/css/main.3632bf37.css.map",
+    "main.6543425a.js.map": "/james_marckdown_previewer/static/js/main.6543425a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3632bf37.css",
+    "static/js/main.6543425a.js"
+  ]
+}
