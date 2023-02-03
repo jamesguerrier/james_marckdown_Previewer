@@ -33,6 +33,7 @@
   border: 1px solid green;
   width: 900px;
   margin: auto;
+  margin-bottom: 40px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
